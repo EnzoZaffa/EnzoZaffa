@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Olá! Eu sou o Enzo Zaffaroni
 
-<!--
-**EnzoZaffa/EnzoZaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de desenvolvimento web  
+💻 Apaixonado por tecnologia, programação e inovação  
+🚀 Em busca de evoluir cada dia mais como desenvolvedor  
 
-Here are some ideas to get you started:
+#### 🛠️ Tecnologias que estou aprendendo:
+- HTML, CSS, JavaScript
+- PHP, MySQL
+- React, TypeScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📂 Meus principais projetos:
+🔹 [Zaffa](https://github.com/EnzoZaffa/Zaffa) – Loja virtual com carrinho de compras  
+🔹 [Marcelo.Site](https://github.com/EnzoZaffa/Marcelo.Site) – Site simples com HTML e CSS  
+🔹 [atividade-recuperacao](https://github.com/EnzoZaffa/atividade-recuperacao) – Projeto escolar em HTML  
+
+📫 **Conecte-se comigo**:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/enzo-zaffaroni-996c99282/)

@@ -16,4 +16,4 @@
 🔹 [atividade-recuperacao](https://github.com/EnzoZaffa/atividade-recuperacao) – Projeto escolar em HTML  
 
 📫 **Conecte-se comigo**:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/enzo-zaffaroni-996c99282/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/enzo-zaffaroni-996299282)

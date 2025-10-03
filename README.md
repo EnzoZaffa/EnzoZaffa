@@ -1,16 +1,16 @@
 ### 👋 Olá! Eu sou o Enzo Zaffaroni
 
-🎓 Estudante de desenvolvimento web  
+🎓 Estudante de desenvolvimento web e mobile 
 💻 Apaixonado por tecnologia, programação e inovação  
 🚀 Em busca de evoluir cada dia mais como desenvolvedor  
 
-#### 🛠️ Tecnologias que estou aprendendo:
+#### Tecnologias que estou aprendendo:
 - HTML, CSS, JavaScript
 - PHP, MySQL
 - React, TypeScript
 - Git & GitHub
 
-#### 📂 Meus principais projetos:
+#### Meus principais projetos:
 🔹 [Zaffa](https://github.com/EnzoZaffa/Zaffa) – Loja virtual com carrinho de compras  
 🔹 [Marcelo.Site](https://github.com/EnzoZaffa/Marcelo.Site) – Site simples com HTML e CSS  
 🔹 [atividade-recuperacao](https://github.com/EnzoZaffa/atividade-recuperacao) – Projeto escolar em HTML  

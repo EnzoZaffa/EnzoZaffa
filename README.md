@@ -44,11 +44,11 @@ Projeto desenvolvido com React Native, Expo.
 
 ---
 
-### 🔹 Marcelo.Site  
-🌐 Site institucional desenvolvido com HTML e CSS  
-🔗 https://github.com/EnzoZaffa/Marcelo.Site  
+### 🔹 App Spotify  
 
-Projeto voltado para estruturação semântica e estilização responsiva.
+🔗 https://github.com/EnzoZaffa/AppSpotify
+
+Projeto voltado para escutar musica, programado com React Native, Expo.
 
 ---
 

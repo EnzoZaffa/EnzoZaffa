@@ -35,11 +35,12 @@ Estou sempre buscando evoluir como desenvolvedor, aplicando meus conhecimentos e
 
 ## 📂 Projetos em Destaque
 
-### 🔹 Zaffa  
-🛒 Loja virtual com carrinho de compras  
-🔗 https://github.com/EnzoZaffa/Zaffa  
+### 🔹 App de TinderPet 
 
-Projeto focado em lógica de programação, manipulação de DOM e estruturação de layout para e-commerce.
+📱 App mobile parecido com o Tinder feito para pets. 
+🔗 https://github.com/EnzoZaffa/TinderPet
+
+Projeto desenvolvido com React Native, Expo.
 
 ---
 

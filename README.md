@@ -1,19 +1,67 @@
-### 👋 Olá! Eu sou o Enzo Zaffaroni
+#  Olá! Eu sou o Enzo Zaffaroni  
 
-🎓 Estudante de desenvolvimento web e mobile 
-💻 Apaixonado por tecnologia, programação e inovação  
-🚀 Em busca de evoluir cada dia mais como desenvolvedor  
+ Formado no Técnico em Análise e Desenvolvimento de Sistemas (2025)  
+ Atualmente cursando Engenharia de Software (2026)  
+ Desenvolvedor Web e Mobile    
 
-#### Tecnologias que estou aprendendo:
-- HTML, CSS, JavaScript
-- PHP, MySQL
-- React, TypeScript
-- Git & GitHub
+Estou sempre buscando evoluir como desenvolvedor, aplicando meus conhecimentos em projetos práticos e aprendendo novas tecnologias.
 
-#### Meus principais projetos:
-🔹 [Zaffa](https://github.com/EnzoZaffa/Zaffa) – Loja virtual com carrinho de compras  
-🔹 [Marcelo.Site](https://github.com/EnzoZaffa/Marcelo.Site) – Site simples com HTML e CSS  
-🔹 [atividade-recuperacao](https://github.com/EnzoZaffa/atividade-recuperacao) – Projeto escolar em HTML  
 
-📫 **Conecte-se comigo**:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/enzo-zaffaroni-996299282)
+
+##  Tecnologias & Ferramentas
+
+### 🌐 Front-end
+- HTML5
+- CSS3
+- JavaScript
+- React
+- TypeScript
+
+### 🔙 Back-end
+- PHP
+
+### 🗄️ Banco de Dados
+- MySQL
+
+### 📱 Mobile
+- Desenvolvimento de aplicações mobile
+- React Native
+
+### 🔧 Ferramentas
+- Git
+- GitHub
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🔹 Zaffa  
+🛒 Loja virtual com carrinho de compras  
+🔗 https://github.com/EnzoZaffa/Zaffa  
+
+Projeto focado em lógica de programação, manipulação de DOM e estruturação de layout para e-commerce.
+
+---
+
+### 🔹 Marcelo.Site  
+🌐 Site institucional desenvolvido com HTML e CSS  
+🔗 https://github.com/EnzoZaffa/Marcelo.Site  
+
+Projeto voltado para estruturação semântica e estilização responsiva.
+
+---
+
+### 🔹 atividade-recuperacao  
+📘 Projeto acadêmico em HTML  
+🔗 https://github.com/EnzoZaffa/atividade-recuperacao  
+
+Foco em organização de código e boas práticas básicas de desenvolvimento.
+
+---
+
+##  Contato
+
+📧 Email: enzozaffaroni7@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/enzo-zaffaroni-996299282/
+
+---

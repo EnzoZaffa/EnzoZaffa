@@ -52,11 +52,9 @@ Projeto voltado para escutar musica, programado com React Native, Expo.
 
 ---
 
-### 🔹 atividade-recuperacao  
-📘 Projeto acadêmico em HTML  
-🔗 https://github.com/EnzoZaffa/atividade-recuperacao  
+### 🔹 App de Geolocalização — React Native + Expo
 
-Foco em organização de código e boas práticas básicas de desenvolvimento.
+🔗 https://github.com/EnzoZaffa/MapaApp
 
 ---
 
